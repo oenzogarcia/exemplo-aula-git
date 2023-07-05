@@ -1,1 +1,1 @@
-console.log("Fala galera do zap!")
+console.log("Fala galera do zap")
